@@ -1,4 +1,4 @@
-# WeatherSwiftUI
+# Weather App
 
 This application is a SwiftUI implementation of the iOS Weather app. 
 All the background images of the iOS Weather app are not present at the moment, this could be a future improvement of this project. 
